@@ -1,0 +1,42 @@
+C:\Users\videojuegos\Downloads\Pruebas algoritmo\ProyectoIA\ProyectoIA\bin\Debug\net6.0\ProyectoIA.exe
+C:\Users\videojuegos\Downloads\Pruebas algoritmo\ProyectoIA\ProyectoIA\bin\Debug\net6.0\ProyectoIA.deps.json
+C:\Users\videojuegos\Downloads\Pruebas algoritmo\ProyectoIA\ProyectoIA\bin\Debug\net6.0\ProyectoIA.runtimeconfig.json
+C:\Users\videojuegos\Downloads\Pruebas algoritmo\ProyectoIA\ProyectoIA\bin\Debug\net6.0\ProyectoIA.dll
+C:\Users\videojuegos\Downloads\Pruebas algoritmo\ProyectoIA\ProyectoIA\bin\Debug\net6.0\ProyectoIA.pdb
+C:\Users\videojuegos\Downloads\Pruebas algoritmo\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\videojuegos\Downloads\Pruebas algoritmo\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.AssemblyInfoInputs.cache
+C:\Users\videojuegos\Downloads\Pruebas algoritmo\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.AssemblyInfo.cs
+C:\Users\videojuegos\Downloads\Pruebas algoritmo\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.csproj.CoreCompileInputs.cache
+C:\Users\videojuegos\Downloads\Pruebas algoritmo\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.dll
+C:\Users\videojuegos\Downloads\Pruebas algoritmo\ProyectoIA\ProyectoIA\obj\Debug\net6.0\refint\ProyectoIA.dll
+C:\Users\videojuegos\Downloads\Pruebas algoritmo\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.pdb
+C:\Users\videojuegos\Downloads\Pruebas algoritmo\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.genruntimeconfig.cache
+C:\Users\videojuegos\Downloads\Pruebas algoritmo\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ref\ProyectoIA.dll
+F:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\bin\Debug\net6.0\ProyectoIA.exe
+F:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\bin\Debug\net6.0\ProyectoIA.deps.json
+F:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\bin\Debug\net6.0\ProyectoIA.runtimeconfig.json
+F:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\bin\Debug\net6.0\ProyectoIA.dll
+F:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\bin\Debug\net6.0\ProyectoIA.pdb
+F:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.GeneratedMSBuildEditorConfig.editorconfig
+F:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.AssemblyInfoInputs.cache
+F:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.AssemblyInfo.cs
+F:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.csproj.CoreCompileInputs.cache
+F:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.dll
+F:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\refint\ProyectoIA.dll
+F:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.pdb
+F:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.genruntimeconfig.cache
+F:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ref\ProyectoIA.dll
+D:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\bin\Debug\net6.0\ProyectoIA.exe
+D:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\bin\Debug\net6.0\ProyectoIA.deps.json
+D:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\bin\Debug\net6.0\ProyectoIA.runtimeconfig.json
+D:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\bin\Debug\net6.0\ProyectoIA.dll
+D:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\bin\Debug\net6.0\ProyectoIA.pdb
+D:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.GeneratedMSBuildEditorConfig.editorconfig
+D:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.AssemblyInfoInputs.cache
+D:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.AssemblyInfo.cs
+D:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.csproj.CoreCompileInputs.cache
+D:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.dll
+D:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\refint\ProyectoIA.dll
+D:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.pdb
+D:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ProyectoIA.genruntimeconfig.cache
+D:\EspecialidadCurso\IA\ProyectoIA\ProyectoIA\obj\Debug\net6.0\ref\ProyectoIA.dll
